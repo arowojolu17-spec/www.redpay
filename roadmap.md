@@ -1,0 +1,4 @@
+- [x] Add admin-configurable RPC prices, activation link/price, and online/offline availability.
+- [x] Require payment approval before users can access the dashboard.
+- [x] Update payment and dashboard flows to respect reviewed payment status.
+- [x] Validate diagnostics and user-facing flows.
